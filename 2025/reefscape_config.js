@@ -86,6 +86,22 @@ var config_data = `
       "code": "ac4",
       "type": "counter"
     },
+    { "name": "Coral L1 Missed",
+      "code": "ac1",
+      "type": "counter"
+    },
+    { "name": "Coral L2 Missed",
+      "code": "ac2",
+      "type": "counter"
+    },
+    { "name": "Coral L3 Missed",
+      "code": "ac3",
+      "type": "counter"
+    },
+    { "name": "Coral L4 Missed",
+      "code": "ac4",
+      "type": "counter"
+    },
     { "name": "Auto Scoring Position",
       "code": "asp",
       "type": "clickable_image",
@@ -216,18 +232,6 @@ var config_data = `
     { "name": "Tippy<br>(almost tipped over)",
       "code": "tip",
       "type": "bool"
-    },
-    { "name": "Missed Coral L4",
-      "code": "mc",
-      "type": "counter"
-      "defaultValue": 0,
-      "tooltip": "Put help or more descriptive text here"
-    },
-    { "name": "Missed Algae",
-      "code": "mc",
-      "type": "counter"
-      "defaultValue": 0,
-      "tooltip": "How many Algae did they miss"
     },
     { "name": "Make good<br>alliance partner?",
       "tooltip": "Would you want this robot on your alliance in eliminations?",
