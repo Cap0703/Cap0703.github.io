@@ -116,12 +116,24 @@ var config_data = `
       "code": "tc2",
       "type": "counter"
     },
+    { "name": "Missed Coral L2",
+      "code": "mtc2",
+      "type": "counter"
+    },
     { "name": "Coral L3",
       "code": "tc3",
       "type": "counter"
     },
+    { "name": "Missed Coral L3",
+      "code": "mtc3",
+      "type": "counter"
+    },
     { "name": "Coral L4",
       "code": "tc4",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L4",
+      "code": "mtc4",
       "type": "counter"
     },
     { "name": "Processor Score",
