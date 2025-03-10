@@ -87,19 +87,19 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Coral L1 Missed",
-      "code": "ac1",
+      "code": "mac1",
       "type": "counter"
     },
     { "name": "Coral L2 Missed",
-      "code": "ac2",
+      "code": "mac2",
       "type": "counter"
     },
     { "name": "Coral L3 Missed",
-      "code": "ac3",
+      "code": "mac3",
       "type": "counter"
     },
     { "name": "Coral L4 Missed",
-      "code": "ac4",
+      "code": "mac4",
       "type": "counter"
     },
     { "name": "Auto Scoring Position",
