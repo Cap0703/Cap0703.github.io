@@ -109,31 +109,19 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Missed Coral L1",
-      "code": "mc1t",
+      "code": "mtc1",
       "type": "counter"
     },
     { "name": "Coral L2",
       "code": "tc2",
       "type": "counter"
     },
-    { "name": "Missed Coral L2",
-      "code": "mc2",
-      "type": "counter"
-    },
     { "name": "Coral L3",
       "code": "tc3",
       "type": "counter"
     },
-    { "name": "Missed Coral L3",
-      "code": "mc3",
-      "type": "counter"
-    },
     { "name": "Coral L4",
       "code": "tc4",
-      "type": "counter"
-    },
-    { "name": "Missed Coral L4",
-      "code": "mc4",
       "type": "counter"
     },
     { "name": "Processor Score",
