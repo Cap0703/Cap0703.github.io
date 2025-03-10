@@ -108,6 +108,10 @@ var config_data = `
       "code": "tc1",
       "type": "counter"
     },
+    { "name": "Missed Coral L1",
+      "code": "mtc1",
+      "type": "counter"
+    },
     { "name": "Coral L2",
       "code": "tc2",
       "type": "counter"
