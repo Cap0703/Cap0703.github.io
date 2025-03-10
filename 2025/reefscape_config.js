@@ -109,7 +109,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Missed Coral L1",
-      "code": "mtc1",
+      "code": "mc1",
       "type": "counter"
     },
     { "name": "Coral L2",
