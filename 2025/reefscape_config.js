@@ -217,13 +217,17 @@ var config_data = `
       "code": "tip",
       "type": "bool"
     },
-    { "name": "Dropped Coral (>2)",
-      "code": "dc",
-      "type": "bool"
+    { "name": "Missed Coral L4",
+      "code": "mc",
+      "type": "counter"
+      "defaultValue": 0,
+      "tooltip": "Put help or more descriptive text here"
     },
-    { "name": "Dropped Algae (>2)",
-      "code": "da",
-      "type": "bool"
+    { "name": "Missed Algae",
+      "code": "mc",
+      "type": "counter"
+      "defaultValue": 0,
+      "tooltip": "How many Algae did they miss"
     },
     { "name": "Make good<br>alliance partner?",
       "tooltip": "Would you want this robot on your alliance in eliminations?",
