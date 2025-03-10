@@ -116,12 +116,24 @@ var config_data = `
       "code": "tc2",
       "type": "counter"
     },
+    { "name": "Missed Coral L2",
+      "code": "mc2t",
+      "type": "counter"
+    },
     { "name": "Coral L3",
       "code": "tc3",
       "type": "counter"
     },
+    { "name": "Missed Coral L3",
+      "code": "mc3t",
+      "type": "counter"
+    },
     { "name": "Coral L4",
       "code": "tc4",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L4",
+      "code": "mc4t",
       "type": "counter"
     },
     { "name": "Processor Score",
@@ -142,10 +154,6 @@ var config_data = `
         "x": "Not Attempted"
       },
       "defaultValue": "x"
-    },
-    { "name": "Scored in<br>Opponent<br>Processor",
-      "code": "opp",
-      "type": "bool"
     }
   ],
   "endgame": [
