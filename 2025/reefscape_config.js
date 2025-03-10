@@ -86,22 +86,6 @@ var config_data = `
       "code": "ac4",
       "type": "counter"
     },
-    { "name": "Coral L1 Missed",
-      "code": "mac1",
-      "type": "counter"
-    },
-    { "name": "Coral L2 Missed",
-      "code": "mac2",
-      "type": "counter"
-    },
-    { "name": "Coral L3 Missed",
-      "code": "mac3",
-      "type": "counter"
-    },
-    { "name": "Coral L4 Missed",
-      "code": "mac4",
-      "type": "counter"
-    },
     { "name": "Auto Scoring Position",
       "code": "asp",
       "type": "clickable_image",
@@ -231,6 +215,14 @@ var config_data = `
     },
     { "name": "Tippy<br>(almost tipped over)",
       "code": "tip",
+      "type": "bool"
+    },
+    { "name": "Dropped Coral (>2)",
+      "code": "dc",
+      "type": "bool"
+    },
+    { "name": "Dropped Algae (>2)",
+      "code": "da",
       "type": "bool"
     },
     { "name": "Make good<br>alliance partner?",
