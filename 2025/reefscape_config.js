@@ -117,7 +117,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Missed Coral L2",
-      "code": "mc2t",
+      "code": "mc2",
       "type": "counter"
     },
     { "name": "Coral L3",
@@ -125,7 +125,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Missed Coral L3",
-      "code": "mc3t",
+      "code": "mc3",
       "type": "counter"
     },
     { "name": "Coral L4",
@@ -133,7 +133,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Missed Coral L4",
-      "code": "mc4t",
+      "code": "mc4",
       "type": "counter"
     },
     { "name": "Processor Score",
