@@ -117,6 +117,10 @@ var config_data = `
     { "name": "Net Score",
       "code": "ans",
       "type": "counter"
+    },
+    { "name": "Missed Net",
+      "code": "man",
+      "type": "counter"
     }
   ],
   "teleop": [
@@ -158,6 +162,10 @@ var config_data = `
     },
     { "name": "Net Score",
       "code": "tns",
+      "type": "counter"
+    },
+    { "name": "Missed Net",
+      "code": "mtn",
       "type": "counter"
     },
     { "name": "Pickup From",
