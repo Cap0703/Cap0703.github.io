@@ -74,28 +74,28 @@ var config_data = `
       "code": "ac1",
       "type": "counter"
     },
-    { "name": "Missed Coral L1",
-      "code": "mac1",
-      "type": "counter"
-    },
     { "name": "Coral L2",
       "code": "ac2",
-      "type": "counter"
-    },
-    { "name": "Missed Coral L2",
-      "code": "mac2",
       "type": "counter"
     },
     { "name": "Coral L3",
       "code": "ac3",
       "type": "counter"
     },
-    { "name": "Missed Coral L3",
-      "code": "mac3",
-      "type": "counter"
-    },
     { "name": "Coral L4",
       "code": "ac4",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L1",
+      "code": "mac1",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L2",
+      "code": "mac2",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L3",
+      "code": "mac3",
       "type": "counter"
     },
     { "name": "Missed Coral L4",
@@ -128,28 +128,28 @@ var config_data = `
       "code": "tc1",
       "type": "counter"
     },
-    { "name": "Missed Coral L1",
-      "code": "mtc1",
-      "type": "counter"
-    },
     { "name": "Coral L2",
       "code": "tc2",
-      "type": "counter"
-    },
-    { "name": "Missed Coral L2",
-      "code": "mtc2",
       "type": "counter"
     },
     { "name": "Coral L3",
       "code": "tc3",
       "type": "counter"
     },
-    { "name": "Missed Coral L3",
-      "code": "mtc3",
-      "type": "counter"
-    },
     { "name": "Coral L4",
       "code": "tc4",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L1",
+      "code": "mtc1",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L2",
+      "code": "mtc2",
+      "type": "counter"
+    },
+    { "name": "Missed Coral L3",
+      "code": "mtc3",
       "type": "counter"
     },
     { "name": "Missed Coral L4",
